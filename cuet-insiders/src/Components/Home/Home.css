@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.custom{
+    background-image: url('https://i.ibb.co/cFmSzTh/mentorship-llustration-webbanner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}

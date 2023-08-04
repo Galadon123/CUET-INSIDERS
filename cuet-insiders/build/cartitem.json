@@ -1,0 +1,272 @@
+[
+    {
+      "_id": "6479cf4ebfad80b44ffa66f1",
+      "index": 0,
+      "guid": "dda64f66-949d-4a85-b1ae-4c46c47f18f1",
+      "isActive": false,
+      "balance": "$3,157.64",
+      "picture": "./images/icon/char1.jpg",
+      "age": 22,
+      "eyeColor": "blue",
+      "name": "Julie Cochran",
+      "gender": "female",
+      "company": "FACEBOOK",
+      "email": "juliecochran@namebox.com",
+      "phone": "+1 (893) 593-2131",
+      "address": "419 Bergen Street, Dunlo, Connecticut, 2775",
+      "about": "Culpa commodo magna aliquip velit. Enim reprehenderit ex voluptate aute in cillum cupidatat tempor laboris ad Lorem. Quis magna aliquip eiusmod anim laboris occaecat velit minim anim mollit enim ut ullamco exercitation.\r\n",
+      "registered": "2016-06-26T04:58:25 -06:00",
+      "latitude": -37.680306,
+      "longitude": -54.762284,
+      "tags": [
+        "ut",
+        "nisi",
+        "esse",
+        "sunt",
+        "aliqua",
+        "id",
+        "commodo"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Katherine Harding"
+        },
+        {
+          "id": 1,
+          "name": "Trisha Mercado"
+        },
+        {
+          "id": 2,
+          "name": "Lucille Sanford"
+        }
+      ],
+      "greeting": "Hello, Julie Cochran! You have 4 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "_id": "6479cf4e53c85c947d1500f5",
+      "index": 1,
+      "guid": "c8ce8ed9-baf3-46f2-9a16-731b2cf5f259",
+      "isActive": true,
+      "balance": "$3,211.75",
+      "picture": "./images/icon/char2.jpg",
+      "age": 28,
+      "eyeColor": "brown",
+      "name": "Mathis Fry",
+      "gender": "male",
+      "company": "UNITY",
+      "email": "mathisfry@jumpstack.com",
+      "phone": "+1 (971) 457-3982",
+      "address": "387 Debevoise Street, Faxon, Pennsylvania, 6692",
+      "about": "In reprehenderit sint laboris commodo veniam velit exercitation cillum ullamco ut consequat consectetur. Dolor deserunt id incididunt exercitation. Occaecat ullamco non minim est ipsum excepteur elit cupidatat ad in culpa officia ullamco. Officia veniam veniam minim ut eiusmod sint aliqua. Elit reprehenderit irure do occaecat nisi officia commodo cillum cupidatat veniam ullamco.\r\n",
+      "registered": "2016-11-03T09:38:49 -06:00",
+      "latitude": 52.484702,
+      "longitude": -41.984988,
+      "tags": [
+        "consectetur",
+        "consectetur",
+        "dolore",
+        "consectetur",
+        "dolor",
+        "Lorem",
+        "qui"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Black Talley"
+        },
+        {
+          "id": 1,
+          "name": "Georgina Haynes"
+        },
+        {
+          "id": 2,
+          "name": "Martha Fowler"
+        }
+      ],
+      "greeting": "Hello, Mathis Fry! You have 10 unread messages.",
+      "favoriteFruit": "banana"
+    },
+    {
+      "_id": "6479cf4e54fde2dcb36dc6a0",
+      "index": 2,
+      "guid": "095547eb-24ba-4b4c-8960-bfd5fda6fb93",
+      "isActive": true,
+      "balance": "$1,133.86",
+      "picture": "./images/icon/char3.jpg",
+      "age": 36,
+      "eyeColor": "blue",
+      "name": "Hamilton Mcintyre",
+      "gender": "male",
+      "company": "MICROSOFT",
+      "email": "hamiltonmcintyre@cowtown.com",
+      "phone": "+1 (816) 591-2936",
+      "address": "842 Jewel Street, Manchester, Kentucky, 7667",
+      "about": "Veniam occaecat officia excepteur qui voluptate consequat exercitation occaecat quis. Sit do qui nostrud consequat eiusmod ut proident fugiat minim aliqua occaecat sit velit. Sit occaecat laborum ullamco nisi duis irure aliquip nulla ex dolor eu id do. Sint reprehenderit non incididunt enim anim. Enim sit quis velit aliquip velit commodo laboris fugiat nostrud adipisicing proident commodo.\r\n",
+      "registered": "2018-07-19T06:01:53 -06:00",
+      "latitude": 21.159856,
+      "longitude": -20.332193,
+      "tags": [
+        "dolore",
+        "commodo",
+        "dolore",
+        "Lorem",
+        "deserunt",
+        "ad",
+        "adipisicing"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Sims Bell"
+        },
+        {
+          "id": 1,
+          "name": "Katheryn Morrow"
+        },
+        {
+          "id": 2,
+          "name": "Tammy Carr"
+        }
+      ],
+      "greeting": "Hello, Hamilton Mcintyre! You have 7 unread messages.",
+      "favoriteFruit": "apple"
+    },
+    {
+      "_id": "6479cf4e40b3e12c774b27a0",
+      "index": 3,
+      "guid": "e4bfd2ab-e96f-4700-9031-6cd03b3cff6d",
+      "isActive": false,
+      "balance": "$3,480.87",
+      "picture": "./images/icon/char6.jpg",
+      "age": 28,
+      "eyeColor": "brown",
+      "name": "Marks Salas",
+      "gender": "male",
+      "company": "GOOGLE",
+      "email": "markssalas@harmoney.com",
+      "phone": "+1 (806) 520-3364",
+      "address": "343 Hazel Court, Reinerton, North Dakota, 1135",
+      "about": "Elit ullamco est enim irure aute voluptate mollit occaecat duis sunt aliqua enim mollit ut. Adipisicing adipisicing adipisicing nisi non non aute. Ullamco amet incididunt aliquip cillum occaecat fugiat duis aliquip dolor sunt elit. Consequat cillum velit magna Lorem ullamco. Labore minim amet anim aliquip. Velit Lorem quis incididunt commodo.\r\n",
+      "registered": "2022-06-02T02:02:09 -06:00",
+      "latitude": 5.927602,
+      "longitude": -138.801981,
+      "tags": [
+        "voluptate",
+        "aliquip",
+        "laboris",
+        "duis",
+        "ipsum",
+        "fugiat",
+        "quis"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Ingrid Aguilar"
+        },
+        {
+          "id": 1,
+          "name": "Britney Mclaughlin"
+        },
+        {
+          "id": 2,
+          "name": "Owen Luna"
+        }
+      ],
+      "greeting": "Hello, Marks Salas! You have 4 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "_id": "6479cf4e9aea50a7ab08602d",
+      "index": 4,
+      "guid": "64631741-c7f6-471f-96c7-9e6a000c1106",
+      "isActive": true,
+      "balance": "$3,812.04",
+      "picture": "./images/icon/char5.jpg",
+      "age": 22,
+      "eyeColor": "brown",
+      "name": "Rosalind Mckenzie",
+      "gender": "female",
+      "company": "TESLA",
+      "email": "rosalindmckenzie@jetsilk.com",
+      "phone": "+1 (892) 472-2645",
+      "address": "643 Downing Street, Cashtown, Maine, 8617",
+      "about": "Aliquip occaecat aute consectetur mollit do nisi sit laborum nulla consequat cillum tempor proident. Aute in cupidatat ullamco occaecat dolor dolore culpa duis nulla reprehenderit laboris. Fugiat et ullamco consequat ut occaecat consequat aliqua officia sit Lorem id. Dolor magna sunt veniam commodo incididunt commodo. Nisi duis sunt laborum non proident anim.\r\n",
+      "registered": "2018-07-03T12:10:22 -06:00",
+      "latitude": 18.727869,
+      "longitude": 68.927593,
+      "tags": [
+        "aliqua",
+        "tempor",
+        "consectetur",
+        "velit",
+        "reprehenderit",
+        "adipisicing",
+        "occaecat"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Rocha Cardenas"
+        },
+        {
+          "id": 1,
+          "name": "Mccray Brewer"
+        },
+        {
+          "id": 2,
+          "name": "Galloway Conrad"
+        }
+      ],
+      "greeting": "Hello, Rosalind Mckenzie! You have 9 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+        "_id": "6479cf4ebfad80b44ffa66f1",
+        "index": 0,
+        "guid": "dda64f66-949d-4a85-b1ae-4c46c47f18f1",
+        "isActive": false,
+        "balance": "$3,157.64",
+        "picture": "./images/icon/char1.jpg",
+        "age": 22,
+        "eyeColor": "blue",
+        "name": "Julie Cochran",
+        "gender": "female",
+        "company": "FACEBOOK",
+        "email": "juliecochran@namebox.com",
+        "phone": "+1 (893) 593-2131",
+        "address": "419 Bergen Street, Dunlo, Connecticut, 2775",
+        "about": "Culpa commodo magna aliquip velit. Enim reprehenderit ex voluptate aute in cillum cupidatat tempor laboris ad Lorem. Quis magna aliquip eiusmod anim laboris occaecat velit minim anim mollit enim ut ullamco exercitation.\r\n",
+        "registered": "2016-06-26T04:58:25 -06:00",
+        "latitude": -37.680306,
+        "longitude": -54.762284,
+        "tags": [
+          "ut",
+          "nisi",
+          "esse",
+          "sunt",
+          "aliqua",
+          "id",
+          "commodo"
+        ],
+        "friends": [
+          {
+            "id": 0,
+            "name": "Katherine Harding"
+          },
+          {
+            "id": 1,
+            "name": "Trisha Mercado"
+          },
+          {
+            "id": 2,
+            "name": "Lucille Sanford"
+          }
+        ],
+        "greeting": "Hello, Julie Cochran! You have 4 unread messages.",
+        "favoriteFruit": "strawberry"
+      }
+  ]

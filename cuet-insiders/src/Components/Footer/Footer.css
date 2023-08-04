@@ -1,0 +1,19 @@
+.footer
+{
+    
+    padding: 50px;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.bg
+{
+    background-color: #0f0e4d;
+    color: white;
+    margin-top: 100px;
+}
+.center
+{
+    align-items: center;
+}

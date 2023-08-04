@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.banner
+{
+    background-image: url('https://demothemesflat.com/edukulkit/wp-content/uploads/2021/09/featured-title-bg.png');
+    background-repeat: no-repeat; 
+    padding: 100px;
+}
+.btn-color
+{
+    background-color: rgb(202, 202, 202);
+    color:black;
+    font-weight: bold;
+}
+.sign
+{
+     padding: 20px;
+    margin-top: 50px;
+    font-weight: bold;
+    border: 2px solid black;
+}
+
+
+
